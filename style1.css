@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(255, 208, 22);
+    background-color: rgb(255, 251, 247);
+    border-radius: 12px;
+}
+
+p {
+    font-size: 20px;
+}
+
+main img{
+    border:3px dashed rgb(255, 208, 22)
+}
+
+h3{
+    color: rgb(255, 208, 22);
+}
+h2{
+    background-color: rgb(255, 251, 247);
+    color: rgb(255, 208, 22);
+    border-radius: 12px;
+}
+a{
+    text-decoration: none;
+}
+
+ol, ul{
+    color: rgb(255, 208, 22);
+}
+
+
+footer{
+    color: rgb(255, 208, 22);
+}
