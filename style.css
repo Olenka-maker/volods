@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: #719eff;
+    color: rgb(8, 21, 254);
+    margin: 0;
+    text-align: center;
+}
+
+header  {
+    display: flex;
+    justify-content: center;
+}
+header img{
+ border: 3px solid rgb(8, 21, 254);
+}
+
+
+.nav-link {
+    text-decoration: none;
+}
+
+
+
+p {
+    font-size: 20px;
+}
+
+
+
+.article-but {
+    background-color: rgb(8, 21, 254);
+    border-radius: 7px;
+    padding: 7px;
+    color: #719eff;
+    margin-bottom: 10px;
+}
+
+
+
+main img{
+    border: 3px solid rgb(8, 21, 254);
+}
+
+
+footer img{
+    margin-top: 20px;
+}
